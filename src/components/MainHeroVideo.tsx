@@ -25,7 +25,6 @@ const MainHeroVideo = () => {
       <video
         ref={videoRef}
         className="h-56 md:h-96 lg:w-full"
-        autoPlay
         loop
         onClick={togglePlayPause}
       >
