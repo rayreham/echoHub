@@ -37,12 +37,12 @@
       {
         "title": "Chatboxes for Everyday Users",
         "description": "echoHub will be the home of diverse models that can be used in your everyday life. By choosing a type of model, you can begin to interact with it the way you would a human. These models are designed to rememeber your previous conversations and are perosnalized to help you with your needs. Whether your looking for a fitness trainer, a business analyst, or just a friend to chat to, echoHub is the place for you!",
-        "img": "/assets/images/cardOne.jpg"
+        "img": "/assets/images/product1.png"
       },
       {
         "title": "Diverse Industries!",
         "description": "You don't need to be a techie to use AI! echoHub is here to dimistify AI and provide everyone from any background with a playground to pick and choose models that can help them in any way!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/product2.png"
       }
     ]
   },
