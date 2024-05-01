@@ -5,18 +5,10 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "About Product",
       "href": "product"
-    },
-    {
-      "name": "About",
-      "href": "about"
     }
   ],
-  "callToAction": {
-    "text": "Take Survey",
-    "href": "#"
-  },
   "mainHero": {
     "title": "echoHub",
     "subtitle": "Infinit Voices. Infinite Choices.",
