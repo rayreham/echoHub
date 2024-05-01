@@ -19,7 +19,9 @@ const MainHeroVideo = () => {
 
   return (
     <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 flex items-center justify-center flex-col">
-      <div className="text-black text-2xl font-bold mb-4">Demo</div>
+      <div className="text-primary text-3xl font-semibold mb-4">
+        Watch Demo!
+      </div>
       <video
         ref={videoRef}
         className="h-56 md:h-96 lg:w-full"
