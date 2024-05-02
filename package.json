@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build": "node --openssl-legacy-provider ./node_modules/.bin/next build",
+    "start": "node --openssl-legacy-provider ./node_modules/.bin/next start",
     "build-stats": "cross-env ANALYZE=true npm run build",
     "export": "next export",
     "build-prod": "run-s clean build export",
