@@ -10,9 +10,9 @@ const About = () => {
     <div className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12">
       <div className="flex flex-col items-center justify-center">
         <div>
-          <img src={logo} alt={companyName} className="w-17 h-17" />
+          <img src={logo} alt={companyName} className="h-9" />
         </div>
-        <div className="text-gray-800 dark:text-white text-lg font-medium">
+        <div className="text-blue-800 dark:text-white text-lg font-bold">
           Co-founders LinkedIns
         </div>
         <div className="flex items-center gap-x-8 mt-2">

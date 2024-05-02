@@ -26,6 +26,7 @@ const MainHeroVideo = () => {
         ref={videoRef}
         className="h-56 md:h-96 lg:w-full"
         loop
+        controls
         onClick={togglePlayPause}
       >
         <source src={mainHero.video} type="video/mp4" />
@@ -37,6 +38,19 @@ const MainHeroVideo = () => {
       >
         {isPlaying ? <span>PAUSE</span> : <span>PLAY DEMO</span>}
       </button>
+      {/* Small text for troubleshooting video */}
+      <p className="mt-2 text-sm text-gray-500">
+        Having trouble viewing the video?{' '}
+        <a
+          href="https://www.loom.com/share/9f17e93f849f4f079120c5c3e1737245?sid=14fd9387-fe2e-4dd7-a0a0-5c102cfcad5d"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ fontWeight: 600, textDecoration: 'underline' }}
+        >
+          Click here
+        </a>
+        .
+      </p>
     </div>
   );
 };
