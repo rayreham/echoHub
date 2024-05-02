@@ -11,8 +11,8 @@
   ],
   "mainHero": {
     "title": "echoHub",
-    "subtitle": "Infinit Voices. Infinite Choices.",
-    "description": "Welcome to echoHub! A platform for engaing with AI generated text and video that will allow people of all backgrounds, regardless of tech experiece, to leverage AI in their everyday lives! Explore our innovative solution by watching the Demo and sharing your insights through our brief survey. Take the survey to join the waitlist!",
+    "subtitle": "Infinite Voices. Infinite Choices.",
+    "description": "Welcome to echoHub! A platform for engaging with AI generated text and video that will allow people of all backgrounds, regardless of tech experience, to leverage AI in their everyday lives! Explore our innovative solution by watching the Demo and sharing your insights through our brief survey. Take the survey to join the waitlist!",
     "video": "/assets/videos/demo.mp4",
     "primaryAction": {
       "text": "Take Survey and Join Waitlist",
@@ -28,13 +28,13 @@
     "items": [
       {
         "title": "Chatboxes for Everyday Users",
-        "description": "echoHub will be the home of diverse models that can be used in your everyday life. By choosing a type of model, you can begin to interact with it the way you would a human. These models are designed to rememeber your previous conversations and are perosnalized to help you with your needs. Whether your looking for a fitness trainer, a business analyst, or just a friend to chat to, echoHub is the place for you!",
+        "description": "echoHub will be the home of diverse models that can be used in your everyday life. By choosing a type of model, you can begin to interact with it the way you would a human. These models are designed to remember your previous conversations and are personalized to help you with your needs. Whether your looking for a fitness trainer, a business analyst, or just a friend to chat to, echoHub is the place for you!",
         "img": "/assets/images/product1.png"
       },
       {
         "title": "Diverse Industries!",
         "description": "You don't need to be a techie to use AI! echoHub is here to dimistify AI and provide everyone from any background with a playground to pick and choose models that can help them in any way!",
-        "img": "/assets/images/product2.png"
+        "img": "/assets/images/productTwo.png"
       }
     ]
   }
