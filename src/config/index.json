@@ -27,13 +27,13 @@
     "title": "The Power of echoHub!",
     "items": [
       {
-        "title": "Chatboxes for Everyday Users",
-        "description": "You don't need to be a techie to use AI! echoHub is here to dimistify AI and provide everyone from any background with a playground to pick and choose Echos that can help them in any way!",
+        "title": "Diverse Industries!",
+        "description": "echoHub will be the home of diverse Echoes that can be used in your everyday life. By choosing a type of Echo, you can begin to interact with it the way you would a human. These Echoes are designed to remember your previous conversations and are personalized to help you with your needs. Whether your looking for a fitness trainer, a business analyst, or just a friend to chat to, echoHub is the place for you!",
         "img": "/assets/images/product1.png"
       },
       {
-        "title": "Diverse Industries!",
-        "description": "echoHub will be the home of diverse Echos that can be used in your everyday life. By choosing a type of Echo, you can begin to interact with it the way you would a human. These Echos are designed to remember your previous conversations and are personalized to help you with your needs. Whether your looking for a fitness trainer, a business analyst, or just a friend to chat to, echoHub is the place for you!",
+        "title": "Chatboxes for Everyday Users",
+        "description": "You don't need to be a techie to use AI! echoHub is here to dimistify AI and provide everyone from any background with a playground to pick and choose Echoes that can help them in any way!",
         "img": "/assets/images/productTwo.png"
       }
     ]
